@@ -1,0 +1,152 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+@{
+    Layout = null;
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<div style=" ;
+          z-index: 4;
+    width: 400px;
+    height: 682px;
+    position: absolute;
+    /* background: #e8f0fecf; */
+    border-top-right-radius: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-image: linear-gradient(136deg, #7d1aad6b, #83f2ff6b); */
+    /* border: outset; */
+    border-right: inset;
+    border-right-width: 32px;
+    border-right-color: #01395d;
+    filter: blur(-46px);
+    background-color: white;
+}">
+    <img src="~/images/juicy-girl-is-engaged-in-online-training.png" style="margin-top: 137px;
+    width: 353px;
+}">
+    <h1 style="color: #00549d;
+    font-family: cursive;
+    background-color: #ffffff;
+    /* margin: 40px; */
+    /* padding: 23px; */
+    font-size: 49px;
+    border-radius: 24px;">
+        Hi,Readers
+    </h1> <p style="    color: #00549d;
+    font-family: cursive;
+    background-color: #ffffff;
+   
+    padding: 23px;
+    font-size: 21px;
+    border-radius: 24px;"> Read more to for you</p>
+</div>
+<div class="butt" >
+  
+</div>
+<div style="    display: flex;
+    align-items: center;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: flex-end;">
+<a class="navbar-brand" asp-area="" asp-controller="" asp-action="">
+    <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+    <lord-icon src="https://cdn.lordicon.com/hursldrn.json"
+               trigger="loop"
+               delay="4000"
+                   style="width: 250px;
+    height: 250px;
+    margin-left: -72%;
+">
+    </lord-icon>
+	</a>
+</div>
+
+<div class="contener ">
+    
+<div >
+    <style>
+        body{
+                background-image: url(https://cdn.create.vista.com/api/media/medium/345624938/stock-photo-bright-books-blue-background-copy?token=);
+                background-size: cover;
+                /* background-repeat: repeat; */
+                /* opacity: 184%; */
+                /* background-blend-mode: hard-light; */
+                
+        }
+			.contener{
+                margin: auto;
+                padding: 40px;
+                width: 400px;
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                align-content: center;
+                background: #99afff6b;
+                border-radius: 40px;
+                box-shadow: -1px -1px 20px 0px;
+                justify-content: center;
+                margin-right: 8%;
+                height: 360px;
+                color: aliceblue;
+                z-index: 1;
+                /* position: static; */
+                /* z-index: 36; */
+                position: sticky;
+               
+            }
+
+            .butt{
+                opacity: 37%;
+                background: black;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+             
+            }
+
+    </style>
+
+
+</div>
+
+<form asp-action="Login">
+<h3>Login</h3>
+    <div class="form-group">
+        <label class="control-label"> user Name</label>
+        <input name="na" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="pa" class="control-label"> user Password</label>
+        <input name="pa" type="password" class="form-control" /> 
+    </div>
+
+        <div style="display: flex;
+    justify-content: space-evenly;
+    margin: 7px 23px;
+}">
+            <label>Remember Me</label><input type="checkbox"></input>
+        </div>
+    <input type="submit" value="Login" class="btn btn-primary" />
+
+    <p style="color:red"> @ViewData["message"]</p>
+</form>
+    <a style="border-radius: 40px;
+    background-color: aliceblue;
+    padding: 4 23px;
+    text-decoration: dotted;
+    font-weight: 700;
+}" asp-action="Register">Create Account</a>
+</div>
+
+

@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\book_store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\book_store.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\css\\clip-100.png",
+      "PackagePath": "staticwebassets\\css\\clip-100.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\0.png",
+      "PackagePath": "staticwebassets\\images\\0.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\2 - Copy.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\233-300091837789514غلاف عوالم1.png",
+      "PackagePath": "staticwebassets\\images\\233-300091837789514غلاف عوالم1.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\250506191.jpg",
+      "PackagePath": "staticwebassets\\images\\250506191.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\396778703.jpg",
+      "PackagePath": "staticwebassets\\images\\396778703.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\54455861._SX318_.jpg",
+      "PackagePath": "staticwebassets\\images\\54455861._SX318_.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\58566586._SY475_.jpg",
+      "PackagePath": "staticwebassets\\images\\58566586._SY475_.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\6f2a30246f8944dfdd6dbb7d5c407b13.jpg",
+      "PackagePath": "staticwebassets\\images\\6f2a30246f8944dfdd6dbb7d5c407b13.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\924940479.png",
+      "PackagePath": "staticwebassets\\images\\924940479.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Picsarصثt_224564-05-06_11-02-03-519-Recoveلred-Recovered-Recovered.jpg",
+      "PackagePath": "staticwebassets\\images\\Picsarصثt_224564-05-06_11-02-03-519-Recoveلred-Recovered-Recovered.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Sc.jpg",
+      "PackagePath": "staticwebassets\\images\\Sc.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (13)_3.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (13)_3.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (14)_1.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (14)_1.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (18)_4.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (18)_4.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (2)_3.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (2)_3.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (22)_0.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (22)_0.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (22)_2.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (22)_2.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (22)_3.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (22)_3.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (24).jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (24).jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (24)_1.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (24)_1.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (34)_1 (2).jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (34)_1 (2).jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (34)_1.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (34)_1.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (35)_0.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (35)_0.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (5)_23.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (5)_23.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (6)_1.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (6)_1.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image (97).jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image (97).jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image - 2020-05-22T131244.132.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image - 2020-05-22T131244.132.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image - 2020-05-28T211539.428.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image - 2020-05-28T211539.428.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image - 2020-05-29T003913.966.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image - 2020-05-29T003913.966.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image - 2020-06-11T060927.316.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image - 2020-06-11T060927.316.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image - 2020-06-11T064029.816.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image - 2020-06-11T064029.816.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\Webp.net-compress-image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\Webp.net-compress-image_4.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\WhatsApp Image 2023-03-21 at 8.28.22 PM.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2023-03-21 at 8.28.22 PM.jpeg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\WhatsApp Image 2023-04-16 at 2.55.31 AM.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2023-04-16 at 2.55.31 AM.jpeg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\WhatsApp Image 2023-04-28 at 3.47.43 PM.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2023-04-28 at 3.47.43 PM.jpeg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\bac.jpg",
+      "PackagePath": "staticwebassets\\images\\bac.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\clip-100.png",
+      "PackagePath": "staticwebassets\\images\\clip-100.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\cover.jpg",
+      "PackagePath": "staticwebassets\\images\\cover.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\cx.jpg",
+      "PackagePath": "staticwebassets\\images\\cx.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\juicy-girl-is-engaged-in-online-training.png",
+      "PackagePath": "staticwebassets\\images\\juicy-girl-is-engaged-in-online-training.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\pexels-azamat-esenaliev-2591894.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-azamat-esenaliev-2591894.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\undraw_Profile_re_4a55.png",
+      "PackagePath": "staticwebassets\\images\\undraw_Profile_re_4a55.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\حرف الحاء.jpg",
+      "PackagePath": "staticwebassets\\images\\حرف الحاء.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\دهبي بدون خلفية.png",
+      "PackagePath": "staticwebassets\\images\\دهبي بدون خلفية.png"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\images\\طارق امام -ماكيت القاهرة.jpg",
+      "PackagePath": "staticwebassets\\images\\طارق امام -ماكيت القاهرة.jpg"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\3_تالتة حاسبات\\الترم التاني\\SoftWare\\project 1\\book_store\\book_store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.book_store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.book_store.props",
+      "PackagePath": "build\\book_store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.book_store.props",
+      "PackagePath": "buildMultiTargeting\\book_store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.book_store.props",
+      "PackagePath": "buildTransitive\\book_store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

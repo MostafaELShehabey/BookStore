@@ -1,0 +1,127 @@
+﻿@model IEnumerable<book_store.Models.book>
+
+@{
+    ViewData["Title"] = "landing";
+}
+@{
+    Layout ="~/Views/Shared/landing.cshtml";
+}
+
+
+<style>
+
+    .card-header {
+        background-color: cornflowerblue;
+        /* margin: 0 -18px; */
+        text-align: center;
+        color: antiquewhite;
+        font-size: large;
+        font-family: unset;
+    }
+
+    .col-md-3 {
+        margin-top: 12px;
+    }
+
+    a.Buy {
+        
+        background-color: green;
+        padding: 9px;
+        color: antiquewhite;
+        text-decoration: blink;
+        padding: 6px 28px;
+        border-radius: 10px;
+        font-size: 21px;
+        animation:ease-in-out;
+        animation-direction:1s;
+    }
+
+        a.Buy:hover{
+            background-color:red;
+            padding: 9px;
+            color: antiquewhite;
+            text-decoration: blink;
+            padding: 6px 28px;
+            border-radius: 10px;
+            font-size: 21px;
+        }
+    .land {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* background-image: url(https://uxenvision.com/wp-content/uploads/2022/12/education-concept-books-laptop-library_1150-10586.webp); */
+        background-repeat: round;
+        width: 100%;
+        height: 400px;
+        align-content: flex-end;
+        color: #000000;
+        border-radius: 10px;
+        justify-content: center;
+    }
+    h4{
+        padding: 18px 85px 22px 85px;
+    }
+
+   
+    h1{
+        font-size: 76px;
+        font-family: fantasy;
+        letter-spacing: 20px;
+        /* background: cornsilk; */
+        /* width: 100%; */
+        text-align: center;
+    }
+</style>
+
+
+<div class="land">
+    <div class="h1" style="display:flex;">
+        <h1>Catalogue</h1>
+        <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+        <lord-icon src="https://cdn.lordicon.com/hursldrn.json"
+                  
+                   delay="4000"
+                   style="width: 131px;
+    height: 117px;"
+   
+>
+        </lord-icon>
+        </a>
+    </div>
+
+
+    <h3>Welcome to the reading community </h3>
+    <p>-------------------------------------------------------------------------- T_reader --------------------------------------------------------------------------</p>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3" >
+                <div class="card">
+                    <div class="card-header">
+                        @item.title
+                    </div>
+                    <div class="card-body" style="text-align:center;">
+                        <img src="~/images/@item.imgfile" height="200" /> <br />
+                      
+                    </div>
+                    <div class="card-footer" style="    display: flex;
+    flex-direction: row;
+    justify-content: space-between;">
+                        <a asp-controller="usersaccounts" asp-action="Go_to_buy" class="Buy">Buy</a><div style="background-color: #c7c7c7;
+    font-family: inherit;
+    padding: 10px;
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+    font-style: oblique;
+    border-radius: 6px;
+}">
+                            price:@item.price
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

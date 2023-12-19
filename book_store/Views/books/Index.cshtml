@@ -1,0 +1,92 @@
+﻿@model IEnumerable<book_store.Models.book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Add book NOW?</h1>
+
+<p>
+    <a asp-action="Create" style="    color: #0d6efd;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 6px;">Add book now? </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.info)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.bookquantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cataid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.imgfile)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.info)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bookquantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cataid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imgfile)
+            </td>
+                <td style="width: 270px;">
+                <a asp-action="Edit" asp-route-id="@item.Id" class="nn" >Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="nn" >Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="nn" >Delete</a>
+                    <style>
+                        *.nn {
+                            color: #0d6efd;
+                            text-decoration: none;
+                            background-color: cornflowerblue;
+                            color: aliceblue;
+                            padding: 8px;
+                            border-radius: 6px;
+                        }
+
+                        *.nn:hover{
+                                background-color: red;
+                                color: aliceblue;
+
+                        }
+                    </style>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

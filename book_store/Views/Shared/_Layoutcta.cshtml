@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    @{
+        //User layout
+    }
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - book_store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/book_store.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="books" asp-action="catalogue">
+                    <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+                    <lord-icon src="https://cdn.lordicon.com/hursldrn.json"
+                               trigger="loop"
+                               delay="4000"
+                               style="width:100px;height:100px">
+                    </lord-icon>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="catalogue" style="    background: #f5f9ff;
+    color: darkolivegreen;
+    border-radius: 11px;
+    border-bottom: inset;
+    border-bottom -color: black;
+    border-bottom-color: #8db9ff;
+    /* border-bottom: groove;">Catalogue</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="orders" asp-action="myorders">My Orders</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="usersaccounts" asp-action="Edit">Edit my info</a>
+                            </li>
+                        </ul>
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="social_media" style="
+width:50px;
+height:100%;
+background-color:red;
+
+"></div>
+        <main role="main" class="pb-3" style="text-align:center;">
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 TRader <a asp-area="" asp-controller="usersaccounts" asp-action="login" class="OUT">LOG OUT</a>
+        </div>
+        <style>
+            .OUT {
+                margin: 40px;
+                background-color: red;
+                padding: 6px 20px;
+                color: antiquewhite;
+                text-decoration: blink;
+                border-radius: 12px;
+            }
+
+            }</style>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

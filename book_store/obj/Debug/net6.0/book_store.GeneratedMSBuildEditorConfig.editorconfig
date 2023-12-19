@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = book_store
+build_property.RootNamespace = book_store
+build_property.ProjectDir = F:\3_تالتة حاسبات\الترم التاني\SoftWare\project 1\book_store\book_store\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\3_تالتة حاسبات\الترم التاني\SoftWare\project 1\book_store\book_store
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/catalogue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcY2F0YWxvZ3VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/books/landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcbGFuZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/customerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXGN1c3RvbWVyT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/customerreport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXGN1c3RvbWVycmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/orders/myorders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXG15b3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/Go_to_buy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xHb190b19idXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xsYW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/usersaccounts/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/Edit_profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXRfcHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2t6t88l9g9
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1ncawxw05k
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/myorders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXG15b3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-ad5w8htdae
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dcandzpe6d
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-tc47dspvls
+
+[F:/3_تالتة حاسبات/الترم التاني/SoftWare/project 1/book_store/book_store/Views/Shared/_Layoutcta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRjdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-85ljq4f1it
